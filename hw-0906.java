@@ -1,8 +1,8 @@
-/*
- * Luke Clover
- * HW 9/6/2018
- * and open the template in the editor.
- */
+
+// Luke Clover
+// HW 9/6/2018
+// https://github.com/lukphicl/git_test/blob/master/hw-0906.java
+
 package javaapplication2;
 
 import java.util.Scanner;
