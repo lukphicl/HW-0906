@@ -52,7 +52,8 @@ public class JavaApplication2 {
         
         if (rep <= 0) 
            System.out.println("{}");
-        else {
+        else 
+        {
             newSize = 5 * rep;
             int[] x = new int[newSize];
             x = repeat(arr, rep);
